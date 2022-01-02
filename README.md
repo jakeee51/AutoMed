@@ -1,4 +1,4 @@
-# AUTOMED - The automatic meditation script for A Bender's Will
+# AUTOMED - An automatic meditation script for A Bender's Will
 
 
 **Download Dependencies:**
